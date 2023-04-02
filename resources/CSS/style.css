@@ -12,6 +12,23 @@ html {
     font-weight: normal;
 }
 
-.header a {
+.Download  {
     color: aquamarine;
+}
+
+.personal h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 42px;
+}
+.personal h3 {
+    color: grey;
+    font-weight: normal;
+    font-size: 21px;
+}
+
+.soon h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 42px;
 }
